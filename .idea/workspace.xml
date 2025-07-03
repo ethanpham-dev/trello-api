@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fcea187-cd62-48bc-93a8-e8c118ea23e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/environment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/environment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/mongodb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/mongodb.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -43,6 +45,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -69,7 +72,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751353382195</updated>
-      <workItem from="1751353384019" duration="6627000" />
+      <workItem from="1751353384019" duration="11640000" />
+      <workItem from="1751373029029" duration="3470000" />
+      <workItem from="1751420853435" duration="20520000" />
+      <workItem from="1751510802347" duration="4781000" />
     </task>
     <servers />
   </component>
